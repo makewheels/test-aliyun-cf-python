@@ -9,5 +9,5 @@ import logging
 
 def handler(event, context):
   logger = logging.getLogger()
-  logger.info('hello world')
+  logger.info('hello world111111')
   return 'hello world'
